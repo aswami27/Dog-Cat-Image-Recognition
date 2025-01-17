@@ -1,4 +1,4 @@
-# Dog-Cat-Image-Recognition
+# Convolutional Neural Network Dog Cat Image Recognition
 Image Recognition Model
 
 
